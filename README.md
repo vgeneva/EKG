@@ -18,3 +18,6 @@ Lead II (MLII) records the difference in electrical potential between the right 
 
 
 Lead V5 is part of the precordial (chest) leads and is placed on the left side of the chest. It provides a horizontal view of the heart, focusing on the lateral aspect of the left ventricle.
+
+# New notebook added:
+Image compression of Sharbat Gula from National Geographic. Using Fast Fourier Transform (FFT) on image allows us to threshold small Fourier coefficinets and we can recover the image using the FFT inverse.
